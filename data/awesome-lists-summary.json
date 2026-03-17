@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-03-16T06:24:33.445Z",
+  "lastSync": "2026-03-17T06:16:55.283Z",
   "sources": [
     "punkpeye-awesome-mcp-servers",
     "composio-awesome-claude-skills",
@@ -13,23 +13,23 @@
     "awesome-gemini-cli",
     "kdense-claude-scientific-skills"
   ],
-  "totalEntries": 1886,
+  "totalEntries": 1902,
   "byCategory": {
-    "mcp-server": 1603,
+    "mcp-server": 1618,
     "agent-skill": 205,
     "cursor-rule": 3,
-    "openclaw-skill": 3,
+    "openclaw-skill": 4,
     "copilot-extension": 1,
     "gemini-extension": 71
   },
   "bySource": {
-    "punkpeye-awesome-mcp-servers": 1598,
+    "punkpeye-awesome-mcp-servers": 1613,
     "composio-awesome-claude-skills": 34,
     "voltagent-awesome-agent-skills": 2,
     "patrickjs-awesome-cursorrules": 3,
     "hesreallyhim-awesome-claude-code": 162,
     "appcypher-awesome-mcp-servers": 5,
-    "voltagent-awesome-openclaw-skills": 3,
+    "voltagent-awesome-openclaw-skills": 4,
     "antigravity-awesome-skills": 7,
     "github-awesome-copilot": 1,
     "awesome-gemini-cli": 71
