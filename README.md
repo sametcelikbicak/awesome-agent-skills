@@ -58,6 +58,12 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Comprehensive Claude Code ecosystem: skills, hooks, slash-commands, plugins. ![GitHub stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code)
 - [jqueryscript/awesome-claude-code](https://github.com/jqueryscript/awesome-claude-code) - IDE integrations, frameworks, resources. ![GitHub stars](https://img.shields.io/github/stars/jqueryscript/awesome-claude-code)
 
+### Development & Testing
+
+- [sametcelikbicak/coverage-guard](https://github.com/sametcelikbicak/coverage-guard) - Enforces 100% test coverage for JS/TS projects. Works with Vitest, Jest, react-scripts, and more. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot. ![GitHub stars](https://img.shields.io/github/stars/sametcelikbicak/coverage-guard)
+- [sametcelikbicak/flaky-test-detector](https://github.com/sametcelikbicak/flaky-test-detector) - Detects, analyzes, and eliminates flaky tests across any test runner. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot. ![GitHub stars](https://img.shields.io/github/stars/sametcelikbicak/flaky-test-detector)
+- [sametcelikbicak/task-decomposer](https://github.com/sametcelikbicak/task-decomposer) - Decomposes complex requests into structured, AI-friendly task sequences. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot. ![GitHub stars](https://img.shields.io/github/stars/sametcelikbicak/task-decomposer)
+
 ---
 
 ## MCP Servers
